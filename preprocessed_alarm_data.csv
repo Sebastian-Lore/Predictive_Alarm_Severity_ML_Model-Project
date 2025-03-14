@@ -1,0 +1,11 @@
+alarm_id,site_id,severity,past_occurrences,alarm_code_ALM002,alarm_code_ALM003,time_of_day_Morning,time_of_day_Night,day_of_week_Monday,day_of_week_Saturday,day_of_week_Sunday,day_of_week_Thursday,day_of_week_Tuesday,day_of_week_Wednesday,weather_condition_Fog,weather_condition_Rain,weather_condition_Snow,weather_condition_Storm
+1,1,0,1.2173373710536532,1,0,1,0,1,0,0,0,0,0,0,0,0,1
+2,2,3,2.1049792041136093,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+3,2,1,-0.8749612354448134,0,1,0,1,0,0,1,0,0,0,0,1,0,0
+4,3,2,-0.5579462950662578,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+5,3,2,-0.24093135468770227,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+6,1,2,-0.11412537853628005,1,0,1,0,0,0,0,1,0,0,0,0,1,0
+7,3,0,0.9003224306750978,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+8,2,2,-0.9383642235205245,1,0,1,0,0,1,0,0,0,0,0,0,0,1
+9,2,3,-1.0017672115962357,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+10,3,3,-0.4945433069905467,0,1,0,0,0,0,1,0,0,0,0,1,0,0
