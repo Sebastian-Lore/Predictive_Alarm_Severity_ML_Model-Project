@@ -1,0 +1,11 @@
+alarm_id,site_id,alarm_code,severity,past_occurrences,time_of_day,day_of_week,weather_condition
+1,1,ALM002,Warning,35,Morning,Monday,Storm
+2,2,ALM001,Critical,49,Night,Tuesday,Fog
+3,2,ALM003,Minor,2,Night,Sunday,Rain
+4,3,ALM001,Major,7,Morning,Monday,Snow
+5,3,ALM003,Major,12,Afternoon,Tuesday,Clear
+6,1,ALM002,Major,14,Morning,Thursday,Snow
+7,3,ALM003,Warning,30,Morning,Wednesday,Rain
+8,2,ALM002,Major,1,Morning,Saturday,Storm
+9,2,ALM003,Critical,0,Afternoon,Friday,Fog
+10,3,ALM003,Critical,8,Afternoon,Sunday,Rain
